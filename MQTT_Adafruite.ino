@@ -108,7 +108,7 @@ void loop()
   {
     Serial.println(F("Uploaded humidty"));
   }
-  delay(1000);
+  delay(5000);
 
 }
 
